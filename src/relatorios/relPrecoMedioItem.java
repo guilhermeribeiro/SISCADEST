@@ -54,7 +54,7 @@ public class relPrecoMedioItem extends javax.swing.JFrame {
     
      MaskFormatter  ftmData, ftmData2;
     /**
-     * Creates new form relServicos
+     * Creates new form relServicos 
      */
     public relPrecoMedioItem() {
         initComponents();
